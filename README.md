@@ -9,19 +9,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&color=9A00FF&center=true&vCenter=true&width=435&lines=Aspiring+Blockchain+Developer;Full+Stack+Development;Experienced+with+MERN+Stack" alt="Typing SVG" /></a>
 </p>
 
-<div> Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect"> Pixel perfect </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
-
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/JDoy99"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg"/></a>
+  <a href="https://twitter.com/JDoy99"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/003-twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/JD0x2e"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png"/></a>
+   <a href="https://t.me/JD0x2e"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/001-telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="discordapp.com/users/873984314650558524" alt="Discord"><img width="32px" src=""/></a>
+   <a href="discordapp.com/users/873984314650558524" alt="Discord"><img width="32px" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/002-discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
 
 ---
 
