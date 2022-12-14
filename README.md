@@ -33,7 +33,7 @@
  
 ## 🧑🏻‍💻 A little bit about me
 
-Hi, I'm Jack and I'm a massive Crypto/Defi enthusiast. I am very interested in Web3 and can't wait to see where the future takes me. I have attended a Full Stack MERN Bootcamp taught by the great [Wollivan](https://github.com/Wollivan) at [Tech Educators](https://techeducators.co.uk/), which has brought me the skills I needed to further my career. I love everything about coding, the writing, the testing, the bug fixing, what is there not to love about it? I'm completely mad about Tech in general and cannot wait to see where this career can take me.
+Hi, I'm Jack and I'm passionate about Crypto and DeFi. I am excited about the potential of Web3 and am eager to see where my career in technology takes me. I recently attended a Full Stack MERN Bootcamp taught by [Wollivan](https://github.com/Wollivan) at [Tech Educators](https://techeducators.co.uk/), which provided me with the skills I need to advance in my field. I enjoy all aspects of coding, from writing and testing to bug fixing. I am enthusiastic about technology and am excited to see where it can lead me.
 </br>
 </br>
 
