@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=9A00FF&center=true&vCenter=true&width=435&lines=+Blockchain+Developer;Full+Stack+Web3+Development;Experienced+with+MERN+Stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=9A00FF&center=true&vCenter=true&width=435&lines=+Blockchain+Developer;Full+Stack+Web3+Development;" alt="Typing SVG" /></a>
 </p>
 
 
@@ -33,7 +33,7 @@
  
 ## 🧑🏻‍💻 A little bit about me
 
-Hi, I'm Jack and I'm passionate about Crypto and DeFi. I am excited about the potential of Web3 and am eager to see where my career in technology takes me. I recently attended a Full Stack MERN Bootcamp taught by [Wollivan](https://github.com/Wollivan) at [Tech Educators](https://techeducators.co.uk/), which provided me with the skills I need to advance in my field. I enjoy all aspects of coding, from writing and testing to bug fixing. I am enthusiastic about technology and am excited to see where it can lead me.
+Hello! I'm Jack, a DeFi enthusiast and skilled programmer in Solidity, TypeScript, and React since 2022. My fascination with Web3's transformative power, especially in security, fuels my professional commitment to craft secure, scalable solutions from complex coding challenges. My journey from hobbyist to professional programmer encompasses all facets of coding, from writing and testing to debugging. Excited by technology's potential, I eagerly look forward to where it will lead me next.
 </br>
 </br>
 
@@ -43,7 +43,7 @@ Hi, I'm Jack and I'm passionate about Crypto and DeFi. I am excited about the po
 
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asolidity"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-000000?logo=Solidity&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -93,8 +93,7 @@ Hi, I'm Jack and I'm passionate about Crypto and DeFi. I am excited about the po
 </details>
 
 <details>
- <summary><h3>👨‍💻 JD's Coding Journey</h3></summary>
-   I started my coding journey actually way back in December 2021. I struggled at first to get to grips with the syntax and how it should be written so I eventually stopped as I was working full-time at the current time and just couldn't dedicate any more brain space to learn. It wasn't until July of 2022 when I was reached out to by a fellow crypto enthusiast/friend, about a course that his company was running, this turned out to be the best decision of my life. I started at the beginning of August and by November I had finished this intensive bootcamp and felt a breathe of fresh air. I could make websites and apps, I could actually code by myself and it felt so great. Fast forward to now, I know many different languages and I am now venturing into the world of Web3 development, taking a particular interest in Solidity and Smart Contracts. The time is now, I will become the best Solidity developer you have ever seen. Watch this space.
+
 
 
 
