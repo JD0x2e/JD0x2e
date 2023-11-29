@@ -12,20 +12,20 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/JDoy99"><img width="36px" alt="Twitter" title="Twitter" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/003-twitter.png"/></a>
+  <a href="https://twitter.com/JD0x2e"><img width="36px" alt="Twitter" title="Twitter" src="https://github.com/JD0x2e/JD0x2e/blob/main/icons/64px/003-twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/JD0x2e"><img width="36px" alt="Telegram" title="Telegram" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/001-telegram.png"/></a>
+   <a href="https://t.me/JD0x2e"><img width="36px" alt="Telegram" title="Telegram" src="https://github.com/JD0x2e/JD0x2e/blob/main/icons/64px/001-telegram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="discordapp.com/users/873984314650558524" alt="Discord"><img width="36px" src="https://github.com/JDoy99/JDoy99/blob/main/icons/64px/002-discord.png"/></a>
+   <a href="discordapp.com/users/873984314650558524" alt="Discord"><img width="36px" src="https://github.com/JD0x2e/JD0x2e/blob/main/icons/64px/002-discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Social badges section -->
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JDoy99?color=9A00FF&style=for-the-badge&labelColor=7d00cf&logo=star"/></a>
-  <a href="https://github.com/JDoy99?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JDoy99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JD0x2e?color=9A00FF&style=for-the-badge&labelColor=7d00cf&logo=star"/></a>
+  <a href="https://github.com/JD0x2e?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JD0x2e?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
@@ -77,7 +77,7 @@ Hello! I'm Jack, a DeFi enthusiast and skilled programmer in Solidity, TypeScrip
 
 <p align="center">
   <a href="v">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JDoy99's streak" src="https://streak-stats.demolab.com?user=JDoy99&theme=tokyonight_duo"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JD0x2e's streak" src="https://streak-stats.demolab.com?user=JD0x2e&theme=tokyonight_duo"/>
   </a>
 </p>
 
@@ -87,8 +87,8 @@ Hello! I'm Jack, a DeFi enthusiast and skilled programmer in Solidity, TypeScrip
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JDoy99's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JDoy99&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JDoy99's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDoy99&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JD0x2e's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JD0x2e&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JD0x2e's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD0x2e&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
